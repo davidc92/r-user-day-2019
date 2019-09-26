@@ -1,8 +1,8 @@
 ---
-title: "Reproducible Analytical Pipelines for Health and Social Care Publications"
-subtitle: "RSS Annual Conference 2019"
-author: 'Jack Hannah & David Caldwell <br> NHS National Services Scotland <br>'
-date: "3 September 2019 <br><br> Slides: https://github.com/jackhannah95/rss-2019"
+title: "Reproducible Analytical <br> Pipelines for Health and <br> Social Care Publications"
+subtitle: "RSS Glasgow"
+author: 'David Caldwell <br> NHS National Services Scotland <br>'
+date: "26 September 2019 <br><br> Slides: https://github.com/davidc92/rss-glasgow-2019"
 output:
   ioslides_presentation:
     css: my-theme.css
