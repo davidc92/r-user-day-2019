@@ -91,20 +91,24 @@ include_graphics(here::here("images", "new_process.png"))
     - 7 Excel tables
     
 - The aim of the case study was to RAP the entire publication process start to finish, teaching ourselves the principles of RAP so these skills can be spread to other teams
+- Did **not** involve transforming the output
 
 ## HSMR
 
-```{r out.width = "100%", fig.align = 'center'}
+```{r out.width = "90%", fig.align = 'center'}
 include_graphics(here::here("images", "hsmr_repo.png"))
 ```
+
+https://github.com/NHS-NSS-transforming-publications/hsmr
 
 ## HSMR
 
 The finished HSMR product is a bespoke R package which contains:
 
-- 17 bespoke functions to carry out all tasks which are repeated each quarterly cyce
+- 17 bespoke functions to carry out all tasks which are repeated each quarterly cycle
 - Error handling and unit testing of functions to ensure quality assurance of data and accuracy of function output
 - Complete automation of entire process start to finish
+- Output was checked against SPSS along the way to ensure accuracy
 
 
 ## HSMR Benefits
@@ -139,13 +143,20 @@ kable(automation_levels,
 
 - As a minimum, we recommend teams aim for level 4 (a or b or both) as laid out in our [RAP paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf)
 
+## Other RAP Projects
+
+- Scottish Bowel Screening Statistics
+    - First RAP produced via the buddy system
+    - Team did development themselves and learned lots of new skills
+    - Development involved slower periods and more intensive weeks
+    
+- Upcoming RAP projects:
+    - End of Life 
+    - Mental Health Prescribing 
+    - HSMR (undergoing front-end transformation)
+
 
 ## Links
-
-### Jack Hannah
-
-[Email](mailto:jack.hannah1@nhs.net)
-[GitHub](https://github.com/jackhannah95)
 
 ### David Caldwell
 
